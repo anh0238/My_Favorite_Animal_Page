@@ -1,0 +1,29 @@
+header {
+    background-color: lightgray;
+    width: 99%;
+    height: 50px;
+}
+
+.menuitem {
+    background-color: darkgray;
+    height: 50px;
+    width: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16pt;
+    color: white;
+    display: inline-block;
+}
+
+.left {
+    background-color: blue;
+    float: left;
+    height: 300px;
+    width: 29%;
+}
+
+.right {
+    background-color: teal;
+    float: left;
+    height: 300px;
+    width: 70%;
+}
